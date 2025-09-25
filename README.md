@@ -26,16 +26,4 @@ pip install -r requirements.txt
 3. Run any experiment for a dataset using:
 ```bash
 python [nameofexperiment].py
-
 Replace [nameofexperiment] with the script name for the experiment you want to run.
-
-
-
-## Results
-DualTune-GhostDP demonstrates:
-
-Strong DP guarantees
-
-Higher accuracy than baseline methods
-
-Reduced runtime and memory usage
