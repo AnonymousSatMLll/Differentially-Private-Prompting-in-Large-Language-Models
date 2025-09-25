@@ -20,8 +20,12 @@ Our project proposes **DualTune-GhostDP**, a **two-phase fine-tuning framework**
 git clone https://github.com/AnonymousSatMLll/Differentially-Private-Prompting-in-Large-Language-Models.git
 
 2. Install required libraries
+```bash
+git clone https://github.com/AnonymousSatMLll/Differentially-Private-Prompting-in-Large-Language-Models.git
 
-3. Run the files for any experiment of any daatset using::  
+3. Run any experiment for a dataset using:
+  ```bash
+git clone https://github.com/AnonymousSatMLll/Differentially-Private-Prompting-in-Large-Language-Models.git
 ```bash
 python ]nameofexperiment].py
 
@@ -36,4 +40,4 @@ Strong DP guarantees
 
 Higher accuracy than baseline methods
 
-Reduced runtime and memory usag
+Reduced runtime and memory usage
