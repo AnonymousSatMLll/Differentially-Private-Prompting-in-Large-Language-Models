@@ -17,13 +17,13 @@ Our project proposes **DualTune-GhostDP**, a **two-phase fine-tuning framework**
 ## Installation
 1. Clone this repository:  
 ```bash
-git clone https://github.com/AnonymousSatMLll/Differentially-Private-Prompting-in-Large-Language-Models.git```
+git clone https://github.com/AnonymousSatMLll/Differentially-Private-Prompting-in-Large-Language-Models.git
 
-2. Install required libraries:
-```bash
-pip install -r requirements.txt
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
 
-3. Run any experiment for a dataset using:
-```bash
-python [nameofexperiment].py
+3.  Run any experiment for a dataset using::
+   ```bash
+    python [nameofexperiment].py
 Replace [nameofexperiment] with the script name for the experiment you want to run.
