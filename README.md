@@ -24,8 +24,8 @@ git clone https://github.com/AnonymousSatMLll/Differentially-Private-Prompting-i
 pip install -r requirements.txt
 
 3. Run any experiment for a dataset using:
-  ```bash
-python ]nameofexperiment].py
+```bash
+python [nameofexperiment].py
 
 Replace [nameofexperiment] with the script name for the experiment you want to run.
 
